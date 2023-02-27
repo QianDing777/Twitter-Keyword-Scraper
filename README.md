@@ -1,5 +1,5 @@
 # Twitter-Keyword-Scraper Project
-### Group work with Joel Nilsson https://github.com/joelbit33
+##### Group work with Joel Nilsson https://github.com/joelbit33
 ##### Fetching data from twitter using snscrape. Focusing on specific tweet topics from programming languages and SQL flavors (hardcoded for now), and then displaying/plotting this as a wordcount in a GUI made with Streamlit for the user.
 ##### Requirements:
 ##### lxml==4.9.1
